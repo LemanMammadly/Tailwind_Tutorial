@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.search{
+    @apply border-black 
+}
+
+.login{
+    @apply border-black
+}
+.world{
+    @apply border-black
+}
